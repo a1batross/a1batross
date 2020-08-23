@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome to my GitHub profile, stranger
 
-<!--
-**a1batross/a1batross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You may notice that I'm not active here anymore or don't host personal projects or like that.
 
-Here are some ideas to get you started:
+The reason behind this is that I don't really want to use GitHub anymore. GitHub for me is now a purely a tool to contribute projects I like rather than make my own.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm migrated to selfhosted Gitea at https://git.mentality.rip/a1batross.
+
+If you want to ask me some questions, I'm reachable at:
+
+
+| Service | Address |
+| --------| --------|
+| **Fediverse** | @a1batross@expired.mentality.rip |
+| **XMPP** | a1batross@jabber.absturztau.be |
+| **Matrix** | @a1batross:sunbutt.faith |
+| **Email** | a1ba.omarov@gmail.com |
