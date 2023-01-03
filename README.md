@@ -11,7 +11,6 @@ If you want to ask me some questions, I'm reachable at:
 
 | Service | Address |
 | --------| --------|
-| **Fediverse** | @a1batross@expired.mentality.rip |
+| **Fediverse** | @a1ba@suya.place |
 | **XMPP** | a1ba.omarov@jabber.absturztau.be |
-| **Matrix** | @a1batross:sunbutt.faith |
 | **Email** | a1ba.omarov@gmail.com |
